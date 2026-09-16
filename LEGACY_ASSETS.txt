@@ -1,0 +1,1 @@
+Original portfolio assets are retained for reference. The redesigned page intentionally uses the real profile photo and custom HTML/CSS project visuals rather than presenting old static clone screenshots as current products.
